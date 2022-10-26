@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>My GitHub Pages Site</title>
-  </head>
   <body>
-    <h1>Hello world!</h1>
-    <p>Welcome to my GitHub Pages site! this is the readme</p>
+    <h1>Hello</h1>
+    <p>dont <strong>readme</strong></p>
   </body>
 </html>
